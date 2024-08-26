@@ -1,0 +1,24 @@
+/* *{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: blueviolet;
+} 
+
+
+
+
+ */
+
+
+ /* public/styles.css */
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #333;
+}
+
+form {
+  margin-top: 20px;
+}
